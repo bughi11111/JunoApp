@@ -1,0 +1,19 @@
+# Mediul virtual
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Kivy & Baze de date (dacă există)
+*.kv.pyc
+.kivy/
+*.sqlite3
+
+# Log-uri și fișiere sistem
+*.log
+.DS_Store
+Thumbs.db
